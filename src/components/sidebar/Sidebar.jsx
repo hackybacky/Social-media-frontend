@@ -44,6 +44,59 @@ export default function Sidebar() {
                     </li>
                 </ul>
                 <button className='sidebarButton'> show more </button>
+                <hr className='sidebarHr' />
+                <ul className='sidebarFriendList'>
+                    <li className='sidebarFriend'>
+                        
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                     <li className='sidebarFriend'>
+                        
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                    <li className='sidebarFriend'>
+
+                        <img src="./assets/person/kumar.jpg" alt="" className="sidebarFriendImg" />
+                        <span className='sidebarFriendName'> jane bow </span>
+                    </li>
+                </ul>
             </div>
         </div>
     )

@@ -1,4 +1,5 @@
 .topbarContainer{
+    /* sticky is user to sticky that div at scroll  */
     position: sticky;
     height: 50px;
     width: 100%;
@@ -22,6 +23,7 @@
 }
 
 .topbarCenter{
+    /* by mentioning flex 5 it will take 5 portion of screen */
     flex:5;
 }
 .searchBar{
