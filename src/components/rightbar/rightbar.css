@@ -1,3 +1,24 @@
 .rightbar{
     flex:3.5;
 }
+
+.rightbarWrapper{
+    padding:20px;
+}
+
+.birthdayImg{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+
+}
+
+.birthdayContainer{
+    display:flex;
+    align-items: center;    
+}
+
+.birthdayText{
+    font-weight: 300px;
+    font-size: 15px;
+}

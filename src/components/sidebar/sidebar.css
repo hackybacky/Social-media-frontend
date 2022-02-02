@@ -4,6 +4,7 @@
     height: calc(100vh - 50px);
     /* this is used when our y axis overflow or when there are many friend active */
     overflow-y: scroll; 
+    
 }
 
 /* copied from internet side bar scrool css */
