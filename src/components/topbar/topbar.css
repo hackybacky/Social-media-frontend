@@ -6,7 +6,9 @@
     background-color: 		#00BFFF;
     display: flex;
     align-items: center;
-    top: 0;
+    top: 0px;
+    z-index: 999;
+    
 }
 
 .topbarLeft{
